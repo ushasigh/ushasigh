@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
   
 ## About Me
-I am a third-year Ph.D. student at the University of California, San Diego, in Electrical and Computer Engineering.  
+I am a fourth-year Ph.D. student at the University of California, San Diego, in Electrical and Computer Engineering.  
 I am a part of <a href="https://wcsng.ucsd.edu/" target="_blank">WCSNG</a> under the supervision of Professor Dinesh Bharadia.  
 [Visit my Personal Website](https://ushasigh.github.io)    
 [Visit my Project Website](https://edgeric.github.io)    
